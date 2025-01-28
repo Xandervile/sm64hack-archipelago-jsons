@@ -7,3 +7,4 @@ JSON Author credit:
 * DNVIC (me!) - Super Mario Fantasy 64, Ztar Attack Rebooted, Star Revenge 8, 24 Hour Hack
 * Kingtoad74EE - Star Revenge 4.5
 * SheepSquared - SM64 - The Green Stars
+* Catzador - Super Mario Star Road
