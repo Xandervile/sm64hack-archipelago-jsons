@@ -8,3 +8,4 @@ JSON Author credit:
 * Kingtoad74EE - Star Revenge 4.5
 * SheepSquared - SM64 - The Green Stars
 * Catzador - Super Mario Star Road
+* Rikkukun - Lug's Delightful Dioramas
