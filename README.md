@@ -9,4 +9,4 @@ JSON Author credit:
 * SheepSquared - SM64 - The Green Stars
 * Catzador - Super Mario Star Road
 * Rikkukun - Lug's Delightful Dioramas
-* LudwigVonKoopa - Cursed Castles, Shining Stars Repainted, SM64 and the Koopa Power
+* LudwigVonKoopa - Cursed Castles, Shining Stars Repainted, SM64 and the Koopa Power, SM64 and the Grand Star, Eureka
