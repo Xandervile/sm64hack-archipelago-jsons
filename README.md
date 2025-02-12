@@ -10,4 +10,4 @@ JSON Author credit:
 * Catzador - Super Mario Star Road
 * Rikkukun - Lug's Delightful Dioramas
 * LudwigVonKoopa - Cursed Castles, Shining Stars Repainted, SM64 and the Koopa Power, SM64 and the Grand Star, Eureka, Mario's New Earth
-* mr.zebra - SM74 Ten Years After
+* duckSM64/mr.zebra - SM74 Ten Years After
