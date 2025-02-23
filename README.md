@@ -12,3 +12,4 @@ JSON Author credit:
 * LudwigVonKoopa - Cursed Castles, Shining Stars Repainted, SM64 and the Koopa Power, SM64 and the Grand Star, Eureka, Mario's New Earth, Phenomena, Despairs Mario Gambit, Aventure Alpha Redone, SM64 Sapphire
 * duckSM64/mr.zebra - SM74 Ten Years After
 * zuils - Super Mario 74
+* GraymonDgt - Unoriginal Cringe Meme Hack
