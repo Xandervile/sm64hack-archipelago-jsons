@@ -13,3 +13,4 @@ JSON Author credit:
 * duckSM64/mr.zebra - SM74 Ten Years After
 * zuils - Super Mario 74
 * GraymonDgt - Unoriginal Cringe Meme Hack
+* Awesome7285 - Star Revenge 6.5, Star Revenge 7
