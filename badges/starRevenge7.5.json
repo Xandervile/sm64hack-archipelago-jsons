@@ -1303,7 +1303,7 @@
             {
                 "exists": true,
                 "StarRequirement": "33",
-                "Requirements": ["Ultra Badge", "Key 2", "Wall Badge"]
+                "Requirements": ["Ultra Badge", "Wall Badge"]
             },
             {
                 "exists": true,
