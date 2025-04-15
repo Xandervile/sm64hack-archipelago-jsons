@@ -869,7 +869,7 @@
             {
                 "exists": true,
                 "StarRequirement": "0",
-                "Requirements": ["Wall Badge"],
+                "Requirements": ["Wall Badge", "Ultra Badge"],
                 "ConditionalRequirements": []
             },
             {
