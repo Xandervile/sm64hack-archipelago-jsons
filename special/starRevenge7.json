@@ -277,6 +277,9 @@
             "Requirements": [],
             "ConditionalRequirements": []
         },
+        "Troll Star": {
+            "exists": true
+        }
         "StarRequirement": "0",
         "Requirements": [],
         "ConditionalRequirements": [
@@ -393,6 +396,9 @@
             "StarRequirement": "0",
             "Requirements": [],
             "ConditionalRequirements": []
+        },
+        "Troll Star": {
+            "exists": true
         },
         "StarRequirement": "0",
         "Requirements": [],
@@ -573,6 +579,15 @@
             "Requirements": [],
             "ConditionalRequirements": []
         },
+        "Troll Star": {
+            "exists": true,
+            "StarRequirement": "0",
+                "Requirements": [
+                    "Course 10 Cannon",
+                    "Ultra Badge"
+                ],
+            "ConditionalRequirements": []
+        },
         "StarRequirement": "0",
         "Requirements": [],
         "ConditionalRequirements": []
@@ -649,6 +664,9 @@
             "StarRequirement": "0",
             "Requirements": [],
             "ConditionalRequirements": []
+        },
+        "Troll Star": {
+            "exists": true
         },
         "StarRequirement": "40",
         "Requirements": [],

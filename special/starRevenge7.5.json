@@ -39,6 +39,9 @@
         ],
         "Cannon": {
             "exists": false
+        },
+        "Troll Star": {
+            "exists": false
         }
     },
     "Course 2": {
@@ -77,6 +80,9 @@
             }
         ],
         "Cannon": {
+            "exists": false
+        },
+        "Troll Star": {
             "exists": false
         }
     },
@@ -135,6 +141,13 @@
         ],
         "Cannon": {
             "exists": false
+        },
+        "Troll Star": {
+            "exists": true,
+            "Requirements": [
+                    "Metal Cap",
+                    "Super Badge"
+            ]
         }
     },
     "Course 4": {
@@ -175,6 +188,9 @@
             }
         ],
         "Cannon": {
+            "exists": false
+        },
+        "Troll Star": {
             "exists": false
         },
         "StarRequirement": "0",
@@ -229,6 +245,9 @@
         "Cannon": {
             "exists": false
         },
+        "Troll Star": {
+            "exists": true
+        },
         "StarRequirement": "0",
         "Requirements": [],
         "ConditionalRequirements": [
@@ -281,6 +300,9 @@
         ],
         "Cannon": {
             "exists": false
+        },
+        "Troll Star": {
+            "exists": true
         },
         "StarRequirement": "0",
         "Requirements": [],
@@ -338,6 +360,9 @@
         "Cannon": {
             "exists": false
         },
+        "Troll Star": {
+            "exists": true
+        },
         "StarRequirement": "0",
         "Requirements": ["Super Badge"],
         "ConditionalRequirements": []
@@ -391,6 +416,9 @@
         ],
         "Cannon": {
             "exists": true
+        },
+        "Troll Star": {
+            "exists": false
         },
         "StarRequirement": "0",
         "Requirements": ["Super Badge"],
@@ -451,6 +479,9 @@
             }
         ],
         "Cannon": {
+            "exists": true
+        },
+        "Troll Star": {
             "exists": true
         },
         "StarRequirement": "0",
@@ -514,6 +545,13 @@
         "Cannon": {
             "exists": true
         },
+        "Troll Star": {
+            "exists": true,
+            "Requirements":[
+                "Wall Badge",
+                "Ultra Badge"
+            ]
+        },
         "StarRequirement": "0",
         "Requirements": [],
         "ConditionalRequirements": []
@@ -574,6 +612,9 @@
         ],
         "Cannon": {
             "exists": false
+        },
+        "Troll Star": {
+            "exists": true
         },
         "StarRequirement": "40",
         "Requirements": [],
@@ -677,6 +718,13 @@
         "Cannon": {
             "exists": false
         },
+        "Troll Star": {
+            "exists": true,
+            "Requirements": [
+                "Triple Jump Badge",
+                "Wall Badge"
+            ]
+        },
         "StarRequirement": "0",
         "Requirements": [],
         "ConditionalRequirements": [
@@ -726,6 +774,9 @@
         ],
         "Cannon": {
             "exists": false
+        },
+        "Troll Star": {
+            "exists": true
         },
         "StarRequirement": "40",
         "Requirements": ["Triple Jump Badge", "Wall Badge"],
@@ -783,6 +834,9 @@
         "Cannon": {
             "exists": false
         },
+        "Troll Star": {
+            "exists": true
+        },
         "StarRequirement": "75",
         "Requirements": [
             "Metal Cap"
@@ -826,6 +880,9 @@
         "Cannon": {
             "exists": false
         },
+        "Troll Star": {
+            "exists": false
+        },
         "StarRequirement": "100",
         "Requirements": [],
         "ConditionalRequirements": []
@@ -855,6 +912,9 @@
             }
         ],
         "Cannon": {
+            "exists": false
+        },
+        "Troll Star": {
             "exists": false
         },
         "StarRequirement": "20",
@@ -891,6 +951,10 @@
         "Cannon": {
             "exists": false
         },
+        "Troll Star": {
+            "exists": true,
+            "Requirements": ["Ultra Badge"]
+        },
         "StarRequirement": "33",
         "Requirements": ["Super Badge"],
         "ConditionalRequirements": []
@@ -920,6 +984,9 @@
             }
         ],
         "Cannon": {
+            "exists": false
+        },
+        "Troll Star": {
             "exists": false
         },
         "StarRequirement": 80,
@@ -952,6 +1019,9 @@
         "Cannon": {
             "exists": false
         },
+        "Troll Star": {
+            "exists": false
+        },
         "StarRequirement": "100",
         "Requirements": [],
         "ConditionalRequirements": []
@@ -981,6 +1051,9 @@
             }
         ],
         "Cannon": {
+            "exists": false
+        },
+        "Troll Star": {
             "exists": false
         },
         "StarRequirement": 80,
@@ -1020,6 +1093,9 @@
         "Cannon": {
             "exists": false
         },
+        "Troll Star": {
+            "exists": false
+        },
         "StarRequirement": "80",
         "Requirements": ["Metal Cap"],
         "ConditionalRequirements": []
@@ -1050,6 +1126,9 @@
         ],
         "Cannon": {
             "exists": false
+        },
+        "Troll Star": {
+            "exists": false
         }
     },
     "Metal Cap": {
@@ -1077,6 +1156,9 @@
             }
         ],
         "Cannon": {
+            "exists": false
+        },
+        "Troll Star": {
             "exists": false
         },
         "StarRequirement": "0",
@@ -1123,6 +1205,9 @@
         "Cannon": {
             "exists": false
         },
+        "Troll Star": {
+            "exists": false
+        },
         "StarRequirement": "0",
         "Requirements": ["Super Badge"],
         "ConditionalRequirements": [
@@ -1162,7 +1247,12 @@
         ],
         "Cannon": {
             "exists": false
-        }
+        },
+        "Troll Star": {
+            "exists": true
+        },
+        "StarRequirement": "50",
+        "Requirements": "Super Badge"
     },
     "Overworld": {
         "Stars": [
@@ -1238,6 +1328,9 @@
         ],
         "Cannon": {
             "exists": false
+        },
+        "Troll Star": {
+            "exists": false
         }
     },
     "Other": {
@@ -1311,9 +1404,10 @@
                 "Requirements": ["Super Badge", "Triple Jump Badge"]
             }
         ],
-        "Settings": [
-            "cannons",
-            "sr7"
-        ]
+        "Settings": {
+            "cannons": true,
+            "sr7": true,
+            "prog_key": 0
+        }
     }
 }

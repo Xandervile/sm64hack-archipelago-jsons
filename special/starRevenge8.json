@@ -34,6 +34,9 @@
         ],
         "Cannon": {
             "exists": false
+        },
+        "Troll Star": {
+            "exists": false
         }
     },
     "Course 2": {
@@ -68,6 +71,9 @@
         ],
         "Cannon": {
             "exists": false
+        },
+        "Troll Star": {
+            "exists": false
         }
     },
     "Course 3": {
@@ -100,6 +106,9 @@
             }
         ],
         "Cannon": {
+            "exists": false
+        },
+        "Troll Star": {
             "exists": false
         }
     },
@@ -140,6 +149,9 @@
         ],
         "Cannon": {
             "exists": false
+        },
+        "Troll Star": {
+            "exists": false
         }
     },
     "Course 5": {
@@ -167,6 +179,9 @@
             }
         ],
         "Cannon": {
+            "exists": false
+        },
+        "Troll Star": {
             "exists": false
         }
     },
@@ -209,6 +224,9 @@
         "Requirements": ["Super Badge"],
         "ConditionalRequirements": [],
         "Cannon": {
+            "exists": false
+        },
+        "Troll Star": {
             "exists": false
         }
     },
@@ -286,6 +304,9 @@
                 }
             ]
         },
+        "Troll Star": {
+            "exists": false
+        },
         "StarRequirement": "0",
         "Requirements": [],
         "ConditionalRequirements": []
@@ -335,6 +356,9 @@
             "StarRequirement": "0",
             "Requirements": [],
             "ConditionalRequirements": []
+        },
+        "Troll Star": {
+            "exists": true
         }
     },
     "Course 9": {
@@ -385,6 +409,9 @@
             "StarRequirement": "0",
             "Requirements": [],
             "ConditionalRequirements": []
+        },
+        "Troll Star": {
+            "exists": false
         }
     },
     "Course 10": {
@@ -442,6 +469,9 @@
         ],
         "Cannon": {
             "exists": false
+        },
+        "Troll Star": {
+            "exists": false
         }
     },
     "Course 11": {
@@ -486,6 +516,9 @@
         ],
         "Cannon": {
             "exists": false
+        },
+        "Troll Star": {
+            "exists": true
         }
     },
     "Course 12": {
@@ -540,6 +573,9 @@
             "StarRequirement": "0",
             "Requirements": [],
             "ConditionalRequirements": []
+        },
+        "Troll Star": {
+            "exists": false
         }
     },
     "Course 13": {
@@ -583,6 +619,9 @@
         "ConditionalRequirements": [],
         "Cannon": {
             "exists": false
+        },
+        "Troll Star": {
+            "exists": true
         }
     },
     "Course 14": {
@@ -638,6 +677,9 @@
             "StarRequirement": "0",
             "Requirements": [],
             "ConditionalRequirements": []
+        },
+        "Troll Star": {
+            "exists": false
         }
     },
     "Course 15": {
@@ -671,6 +713,9 @@
         "ConditionalRequirements": [],
         "Cannon": {
             "exists": false
+        },
+        "Troll Star": {
+            "exists": false
         }
     },
     "Bowser 1": {
@@ -702,6 +747,9 @@
         "ConditionalRequirements": [],
         "Cannon": {
             "exists": false
+        },
+        "Troll Star": {
+            "exists": false
         }
     },
     "Bowser 2": {
@@ -729,9 +777,7 @@
             }
         ],
         "StarRequirement": "0",
-        "Requirements": [
-            "Key 2"
-        ],
+        "Requirements": [],
         "ConditionalRequirements": [
             {
                 "StarRequirement": "",
@@ -813,7 +859,21 @@
         ],
         "StarRequirement": "50",
         "Requirements": [],
-        "ConditionalRequirements": [],
+        "ConditionalRequirements": [
+            {
+                "StarRequirement": "",
+                "Requirements": [
+                    "Key 1"
+                ]
+            },
+            {
+                "StarRequirement": "",
+                "Requirements": [
+                    "Key 2"
+                ]
+            }
+
+        ],
         "Cannon": {
             "exists": false
         }
@@ -942,7 +1002,8 @@
         ],
         "StarRequirement": "110",
         "Requirements": [
-            "Overworld Cannon"
+            "Overworld Cannon",
+            "Key 2"
         ],
         "ConditionalRequirements": [],
         "Cannon": {
@@ -1162,10 +1223,11 @@
                 "exists": false
             }
         ],
-        "Settings": [
-            "cannons",
-            "sr7"
-        ],
+        "Settings": {
+            "cannons": true,
+            "sr7": true,
+            "prog_key": 0
+        },
         "Cannon": {
             "exists": false
         }
